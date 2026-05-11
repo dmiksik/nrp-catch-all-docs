@@ -1,5 +1,10 @@
-import { redirect } from 'next/navigation';
-
 export default function HomePage() {
-  redirect('/docs/catch-all-data-repository/catch-all-repository-introduction');
+  return (
+    <html>
+      <head>
+        <meta httpEquiv="refresh" content="0; url=docs/catch-all-data-repository/catch-all-repository-introduction" />
+      </head>
+      <body />
+    </html>
+  );
 }
