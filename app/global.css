@@ -1,0 +1,22 @@
+:root {
+  --color-fd-background:           hsl(180, 14%, 96%);
+  --color-fd-foreground:           hsl(270, 8%, 3%);
+  --color-fd-muted:                hsl(183, 20%, 92%);
+  --color-fd-muted-foreground:     hsl(183, 15%, 42%);
+  --color-fd-popover:              hsl(0, 0%, 100%);
+  --color-fd-popover-foreground:   hsl(183, 50%, 10%);
+  --color-fd-card:                 hsl(183, 15%, 94%);
+  --color-fd-card-foreground:      hsl(270, 8%, 3%);
+  --color-fd-border:               hsla(183, 30%, 70%, 40%);
+  --color-fd-primary:              hsl(183, 95%, 19%);
+  --color-fd-primary-foreground:   hsl(0, 0%, 100%);
+  --color-fd-secondary:            hsl(183, 20%, 90%);
+  --color-fd-secondary-foreground: hsl(183, 95%, 19%);
+  --color-fd-accent:               hsla(183, 30%, 80%, 50%);
+  --color-fd-accent-foreground:    hsl(183, 95%, 19%);
+  --color-fd-ring:                 hsl(183, 95%, 19%);
+}
+
+article a:hover {
+  color: #C92876;
+}
